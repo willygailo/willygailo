@@ -21,10 +21,10 @@ willygailo · he/him
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=willygailo&label=Profile%20Views&color=0e75b6&style=for-the-badge">
-<img src="https://img.shields.io/github/followers/willygailo?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/willygailo/willygailo/main/assets/repos-badge.json&style=for-the-badge&logo=github">
-<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/willygailo/willygailo/main/assets/starred-badge.json&style=for-the-badge&logo=github">
-<img src="https://img.shields.io/github/stars/willygailo?label=Repo%20Stars&style=for-the-badge&logo=github">
+<img src="https://willygailo-profile-stats.willygailo.workers.dev/badge/followers" alt="Followers">
+<img src="https://willygailo-profile-stats.willygailo.workers.dev/badge/repos" alt="Repositories">
+<img src="https://willygailo-profile-stats.willygailo.workers.dev/badge/starred" alt="Stars (Starred)">
+<img src="https://willygailo-profile-stats.willygailo.workers.dev/badge/repo-stars" alt="Repo Stars">
 </p>
 
 </td>
@@ -83,8 +83,8 @@ willygailo · he/him
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/willygailo/willygailo/main/assets/stats.svg" height="175" alt="PENTESTER willygailo GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=willygailo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="175" alt="streak graph" />
+  <img src="https://willygailo-profile-stats.willygailo.workers.dev/card/stats" height="175" alt="PENTESTER willygailo GitHub Stats" />
+  <img src="https://willygailo-profile-stats.willygailo.workers.dev/card/streak" height="175" alt="streak graph" />
 
 </div>
 
@@ -94,7 +94,7 @@ willygailo · he/him
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=willygailo&theme=dracula" height="180"/>
+      <img src="https://willygailo-profile-stats.willygailo.workers.dev/card/languages" height="180" alt="Top Languages by Repo"/>
     </td>
   </tr>
 </table>
@@ -104,6 +104,6 @@ willygailo · he/him
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=willygailo&theme=react-dark"/>
+<img src="https://willygailo-profile-stats.willygailo.workers.dev/card/activity" alt="PENTESTER's Contribution Graph"/>
 
 </p>

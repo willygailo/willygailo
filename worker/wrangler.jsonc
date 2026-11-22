@@ -1,0 +1,23 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "willygailo-profile-stats",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-11-22",
+  "compatibility_flags": ["nodejs_compat"],
+  "vars": {
+    "GITHUB_USERNAME": "willygailo",
+    "TIMEZONE_OFFSET_MINUTES": "480",
+    "COMMITS_SCOPE": "all_time"
+  },
+  "observability": {
+    "enabled": true,
+    "logs": {
+      "enabled": true,
+      "head_sampling_rate": 1
+    },
+    "traces": {
+      "enabled": true,
+      "head_sampling_rate": 0.1
+    }
+  }
+}
