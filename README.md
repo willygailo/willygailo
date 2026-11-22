@@ -5,27 +5,32 @@
 <h1 align="center">
 Hi
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-, I'm Willy Gailo
+, I'm PENTESTER
 </h1>
 
 <h3 align="center">
-Penetration Tester • Android Developer • Reverse Engineer • Security Tool Builder
+willygailo · he/him
 </h3>
 
+<p align="center">
+<strong>Penetration Tester • Android Developer • Reverse Engineer • Security Tool Builder</strong>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Penetration+Tester+%26+Bug+Hunter;Android+Developer+%28Kotlin+%7C+Java+%7C+C%2B%2B%29;Reverse+Engineering+%26+Security+Research;Building+Practical+Tools+%26+Automation;Full-Stack+Web+%26+Python+Developer;Always+Learning+and+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=PENTESTER+%7C+willygailo+%C2%B7+he%2Fhim;Penetration+Tester+%26+Bug+Hunter;Android+Developer+%28Kotlin+%7C+Java+%7C+C%2B%2B%29;Reverse+Engineering+%26+Security+Research;Building+Practical+Tools+%26+Automation;Always+Learning+and+Improving" alt="Typing SVG" />
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=willygailo&label=Profile%20Views&color=0e75b6&style=for-the-badge">
 <img src="https://img.shields.io/github/followers/willygailo?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/github/stars/willygailo?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/willygailo/willygailo/main/assets/repos-badge.json&style=for-the-badge&logo=github">
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/willygailo/willygailo/main/assets/starred-badge.json&style=for-the-badge&logo=github">
+<img src="https://img.shields.io/github/stars/willygailo?label=Repo%20Stars&style=for-the-badge&logo=github">
 </p>
 
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" height="420" alt="Willy Gailo coding animation">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" height="420" alt="PENTESTER willygailo coding animation">
 
 </td>
 </tr>
@@ -78,8 +83,8 @@ Penetration Tester • Android Developer • Reverse Engineer • Security Tool 
 ###
 
 <div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willygailo&theme=dracula" />
-  <img src="https://streak-stats.demolab.com?user=willygailo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160em" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/willygailo/willygailo/main/assets/stats.svg" height="175" alt="PENTESTER willygailo GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=willygailo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="175" alt="streak graph" />
 
 </div>
 
