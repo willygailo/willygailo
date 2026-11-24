@@ -4,7 +4,7 @@
 
 <h1 align="center">
 Hi
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" alt="Wave">
 , I'm PENTESTER
 </h1>
 
@@ -20,7 +20,7 @@ willygailo · he/him
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=PENTESTER+%7C+willygailo+%C2%B7+he%2Fhim;Penetration+Tester+%26+Bug+Hunter;Android+Developer+%28Kotlin+%7C+Java+%7C+C%2B%2B%29;Reverse+Engineering+%26+Security+Research;Building+Practical+Tools+%26+Automation;Always+Learning+and+Improving" alt="Typing SVG" />
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=willygailo&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=willygailo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 <img src="https://willygailo-profile-stats.willygailo.workers.dev/badge/followers" alt="Followers">
 <img src="https://willygailo-profile-stats.willygailo.workers.dev/badge/repos" alt="Repositories">
 <img src="https://willygailo-profile-stats.willygailo.workers.dev/badge/starred" alt="Stars (Starred)">
@@ -71,7 +71,25 @@ willygailo · he/him
 ###
 
 <div align="center">
-  <h2>Connect with me </h2>
+  <h2>Featured Projects</h2>
+</div>
+
+<div align="center">
+
+| Project | Stack | Highlights | Stars |
+| :--- | :---: | :--- | :---: |
+| **[Game-Launcher](https://github.com/willygailo/Game-Launcher)** | Java · C++ · Shizuku | Android 14–16 gaming performance engine with multi-layer refresh rate locking, CPU/GPU tuning, and non-root Shizuku support | [![Stars](https://img.shields.io/github/stars/willygailo/Game-Launcher?style=flat-square&color=36BCF7)](https://github.com/willygailo/Game-Launcher/stargazers) |
+| **[BETA-MANAGER](https://github.com/willygailo/BETA-MANAGER)** | Kotlin · Android | Practical Android utility for managing beta builds, configs, and app tooling | [![Stars](https://img.shields.io/github/stars/willygailo/BETA-MANAGER?style=flat-square&color=36BCF7)](https://github.com/willygailo/BETA-MANAGER/stargazers) |
+| **[Android-LibTool-New](https://github.com/willygailo/Android-LibTool-New)** | C++ · NDK | Native Android library inspection and reverse-engineering utility | [![Stars](https://img.shields.io/github/stars/willygailo/Android-LibTool-New?style=flat-square&color=36BCF7)](https://github.com/willygailo/Android-LibTool-New/stargazers) |
+| **[Open_Penetration_pentesting-main](https://github.com/willygailo/Open_Penetration_pentesting-main)** | Python · Security | Security testing and practical penetration-testing automation toolkit | [![Stars](https://img.shields.io/github/stars/willygailo/Open_Penetration_pentesting-main?style=flat-square&color=36BCF7)](https://github.com/willygailo/Open_Penetration_pentesting-main/stargazers) |
+| **[web-editor](https://github.com/willygailo/web-editor)** | TypeScript · Web | Lightweight browser-based code editor and developer workspace | [![Stars](https://img.shields.io/github/stars/willygailo/web-editor?style=flat-square&color=36BCF7)](https://github.com/willygailo/web-editor/stargazers) |
+
+</div>
+
+###
+
+<div align="center">
+  <h2>Connect with me</h2>
   <a href="mailto:gailowilly6@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
